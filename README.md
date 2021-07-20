@@ -17,7 +17,6 @@ N|date|pdf
 
 ## Control Tests & Exams
 
-
 N|pdf
 :-:|:-
 01|[2016/2017 Exam preparation](https://github.com/andy489/Selected_Chapters_from_Combinatorics_and_Graph_Theory/blob/main/Control%20Tests%20and%20Exams/01.%20%D0%9F%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0%20%D0%B7%D0%B0%20%D0%B8%D0%B7%D0%BF%D0%B8%D1%82%20%D0%BF%D1%80%D0%B5%D0%B7%20%D0%BB%D0%B5%D1%82%D0%BD%D0%B8%D1%8F%20%D1%81%D0%B5%D0%BC%D0%B5%D1%81%D1%82%D1%8A%D1%80%20%D0%BD%D0%B0%202016-2017%20%D1%83%D1%87.%20%D0%B3..pdf)
@@ -29,3 +28,24 @@ N|pdf
 07|[2021-03-27 Control Test – Solutions 1](https://github.com/andy489/Selected_Chapters_from_Combinatorics_and_Graph_Theory/blob/main/Control%20Tests%20and%20Exams/07.%20%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D1%80%D0%BE%D0%BB%D0%BD%D0%BE%20%D0%BE%D1%82%2027%20%D0%BC%D0%B0%D1%80%D1%82%202021%20%D0%B3.%20%E2%80%93%20%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D1%8F.pdf)
 08|[2021-03-27 Control Test – Solutions 2](https://github.com/andy489/Selected_Chapters_from_Combinatorics_and_Graph_Theory/blob/main/Control%20Tests%20and%20Exams/08.%20%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D1%80%D0%BE%D0%BB%D0%BD%D0%BE%20%D0%BE%D1%82%2027%20%D0%BC%D0%B0%D1%80%D1%82%202021%20%D0%B3.%20%E2%80%93%20%D0%BB%D0%B8%D1%87%D0%BD%D0%B8%20%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D1%8F.pdf)
 09|[2021-05-27 Exam](https://github.com/andy489/Selected_Chapters_from_Combinatorics_and_Graph_Theory/blob/main/Control%20Tests%20and%20Exams/09.%20%D0%98%D0%B7%D0%BF%D0%B8%D1%82%D0%BD%D0%B0%20%D1%82%D0%B5%D0%BC%D0%B0%2027%20%D0%BC%D0%B0%D0%B8%CC%86%202021%20%D0%B3.pdf)
+
+## Reports
+
+N|pdf
+:-:|:-
+01|[Брой Многочлени с P(2)=n](https://github.com/andy489/Selected_Chapters_from_Combinatorics_and_Graph_Theory/blob/main/Reports/01.%20%D0%91%D1%80%D0%BE%D0%B8%CC%86%20%D0%9C%D0%BD%D0%BE%D0%B3%D0%BE%D1%87%D0%BB%D0%B5%D0%BD%D0%B8%20%D1%81%20P(2)%3Dn.pdf)
+02|[Асимптотика на p(n,k)](https://github.com/andy489/Selected_Chapters_from_Combinatorics_and_Graph_Theory/blob/main/Reports/02.%20%D0%90%D1%81%D0%B8%D0%BC%D0%BF%D1%82%D0%BE%D1%82%D0%B8%D0%BA%D0%B0%20%D0%BD%D0%B0%20p(n%2Ck).pdf)
+03|[Вероятност две произволни естествени числа да са взаимнопрости](https://github.com/andy489/Selected_Chapters_from_Combinatorics_and_Graph_Theory/blob/main/Reports/03.%20Coprime%20Natural%20Numbers%20Probability.pdf)
+04|[Числа на Лах](https://github.com/andy489/Selected_Chapters_from_Combinatorics_and_Graph_Theory/blob/main/Reports/04.%20Lah%20Numbers.pdf)
+05|[Оцветяване на граф. Числа на Рамзи. Числа на Фолкман](https://github.com/andy489/Selected_Chapters_from_Combinatorics_and_Graph_Theory/blob/main/Reports/05.%20Coloring%20Graph.%20Ramsey%20Numbers.%20Folkman%20Numbers.pdf)
+06|[Теорема на Хол. (2011-07-31) IMC, Blagoevgrad, Bulgaria](https://github.com/andy489/Selected_Chapters_from_Combinatorics_and_Graph_Theory/blob/main/Reports/06.%20Hall%20Theorem%20(IMC%202011%2C%20Blagoevgrad%2C%20Bulgaria).pdf)
+07|[Теорема на Хол. Задача за разпределяне на предмети](https://github.com/andy489/Selected_Chapters_from_Combinatorics_and_Graph_Theory/blob/main/Reports/07.%20Hall%20Theorem%20(Christmas%20Presents).pdf)
+08|[Задача от националната олимпиада на САШ 1986. Пораждащи функции](https://github.com/andy489/Selected_Chapters_from_Combinatorics_and_Graph_Theory/blob/main/Reports/08.%20Partitions%20of%20Integers%20and%20Generating%20Functions%20%20(USAMO%201986).pdf)
+09|[Пораждащи функции на множества](https://github.com/andy489/Selected_Chapters_from_Combinatorics_and_Graph_Theory/blob/main/Reports/09.%20Generating%20Functions%20of%20Sets.pdf)
+10|[ЗМС, 2008 – Зад. 10.3](https://github.com/andy489/Selected_Chapters_from_Combinatorics_and_Graph_Theory/blob/main/Reports/10.%20%D0%97%D0%9C%D0%A1%2C%202008%20%E2%80%93%20%D0%97%D0%B0%D0%B4.%2010.3.pdf)
+11|[Стратегии. Затворници и кутии](https://github.com/andy489/Selected_Chapters_from_Combinatorics_and_Graph_Theory/blob/main/Reports/11.%20Prisoners%20and%20Boxes.pdf)
+12|[Покритие с фигури. Куки. MOM 2004](https://github.com/andy489/Selected_Chapters_from_Combinatorics_and_Graph_Theory/blob/main/Reports/12.%20Hooks%20(IMO%202004)%20C7%20EST.pdf)
+13|[Граф на Петерсен](https://github.com/andy489/Selected_Chapters_from_Combinatorics_and_Graph_Theory/blob/main/Reports/13.%20Petersen%20Graph.pdf)
+14|[Неизоморфни графи с много сходства](https://github.com/andy489/Selected_Chapters_from_Combinatorics_and_Graph_Theory/blob/main/Reports/14.%20Non-isomorphic%20Graphs%20with%20many%20similarities.pdf)
+15|[Фалшива монета](https://github.com/andy489/Selected_Chapters_from_Combinatorics_and_Graph_Theory/blob/main/Reports/15.%20Fake%20Coin.pdf)
+16|[Задача за двуделен граф. 63-та НОМ, България](https://github.com/andy489/Selected_Chapters_from_Combinatorics_and_Graph_Theory/blob/main/Reports/16.%20%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%20%D0%B7%D0%B0%20%D0%B4%D0%B2%D1%83%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%20%D0%B3%D1%80%D0%B0%D1%84.pdf)
