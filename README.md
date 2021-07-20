@@ -2,7 +2,7 @@
 
 ## Lectures
 
-N|дата|pdf
+N|date|pdf
 :-:|:-:|:-
 01|2021-05-25|[(**Л**) Пораждащи функции. Рекурентни уравнения. Инволюция.](https://github.com/andy489/Selected_Chapters_from_Combinatorics_and_Graph_Theory/blob/main/L/01%20%D0%9B%20(2021-02-25)%20%D0%9F%D0%BE%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D1%89%D0%B8%20%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8.%20%D0%A0%D0%B5%D0%BA%D1%83%D1%80%D0%B5%D0%BD%D1%82%D0%BD%D0%B8%20%D1%83%D1%80%D0%B0%D0%B2%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F.%20%D0%98%D0%BD%D0%B2%D0%BE%D0%BB%D1%8E%D1%86%D0%B8%D1%8F.pdf)
 02|2021-03-04|[(**Л**) Комбинаторни тъждества. Формула на Стирлинг. Терема на Льожандер. Теорема на Люка. Теорема на Кумер](https://github.com/andy489/Selected_Chapters_from_Combinatorics_and_Graph_Theory/blob/main/L/02%20%D0%9B%20(2021-03-04)%20%D0%9A%D0%BE%D0%BC%D0%B1%D0%B8%D0%BD%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B8%20%D1%82%D1%8A%D0%B6%D0%B4%D0%B5%D1%81%D1%82%D0%B2%D0%B0.%20%D0%A4%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0%20%D0%BD%D0%B0%20%D0%A1%D1%82%D0%B8%D1%80%D0%BB%D0%B8%D0%BD%D0%B3.%20%D0%A2%D0%B5%D1%80%D0%B5%D0%BC%D0%B0%20%D0%BD%D0%B0%20%D0%9B%D1%8C%D0%BE%D0%B6%D0%B0%D0%BD%D0%B4%D0%B5%D1%80.%20%D0%A2%D0%B5%D0%BE%D1%80%D0%B5%D0%BC%D0%B0%20%D0%BD%D0%B0%20%D0%9B%D1%8E%D0%BA%D0%B0.%20%D0%A2%D0%B5%D0%BE%D1%80%D0%B5%D0%BC%D0%B0%20%D0%BD%D0%B0%20%D0%9A%D1%83%D0%BC%D0%B5%D1%80.pdf)<br>[2.1. Wilf–Zeilberger pairs](https://github.com/andy489/Selected_Chapters_from_Combinatorics_and_Graph_Theory/blob/main/L/02.1%20Wilf%E2%80%93Zeilberger%20pairs.pdf)<br>[2.2. WZ-method – Examples](https://github.com/andy489/Selected_Chapters_from_Combinatorics_and_Graph_Theory/blob/main/L/02.2%20WZ-method%20%E2%80%93%20Examples.pdf)<br>[2.3. Gosper algorithm for finding WZ pairs](https://github.com/andy489/Selected_Chapters_from_Combinatorics_and_Graph_Theory/blob/main/L/02.3%20Gosper%20algorithm%20for%20finding%20WZ%20pairs.pdf)
@@ -16,3 +16,12 @@ N|дата|pdf
 10|2021-05-13|[10.1. Combinatorial Optimization and Combinatorial Structure in Computational Biology](https://github.com/andy489/Selected_Chapters_from_Combinatorics_and_Graph_Theory/blob/main/L/10.1%20Combinatorial%20Optimization%20and%20Combinatorial%20Structure%20in%20Computational%20Biology.pdf)<br>[10.2. Alkanes and Building Plots](https://github.com/andy489/Selected_Chapters_from_Combinatorics_and_Graph_Theory/blob/main/L/10.2%20Alkanes%20and%20Building%20Plots.pdf)<br>[10.3. Number of Melodies](https://github.com/andy489/Selected_Chapters_from_Combinatorics_and_Graph_Theory/blob/main/L/10.3%20Number%20of%20Melodies.pdf)
 
 ## Control Tests & Exams
+
+
+N|date|pdf
+:-:|:-:|:-
+01|2016-2017|[Exam preparation](https://github.com/andy489/Selected_Chapters_from_Combinatorics_and_Graph_Theory/blob/main/Control%20Tests%20and%20Exams/01.%20%D0%9F%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0%20%D0%B7%D0%B0%20%D0%B8%D0%B7%D0%BF%D0%B8%D1%82%20%D0%BF%D1%80%D0%B5%D0%B7%20%D0%BB%D0%B5%D1%82%D0%BD%D0%B8%D1%8F%20%D1%81%D0%B5%D0%BC%D0%B5%D1%81%D1%82%D1%8A%D1%80%20%D0%BD%D0%B0%202016-2017%20%D1%83%D1%87.%20%D0%B3..pdf)
+02|2016-2017|[Exam](https://github.com/andy489/Selected_Chapters_from_Combinatorics_and_Graph_Theory/blob/main/Control%20Tests%20and%20Exams/02.%20%D0%98%D0%B7%D0%BF%D0%B8%D1%82%20%D0%BF%D1%80%D0%B5%D0%B7%20%D0%BB%D0%B5%D1%82%D0%BD%D0%B8%D1%8F%20%D1%81%D0%B5%D0%BC%D0%B5%D1%81%D1%82%D1%8A%D1%80%20%D0%BD%D0%B0%202016-2017%20%D1%83%D1%87.%20%D0%B3..pdf)
+03|2017-2018|[Exam](https://github.com/andy489/Selected_Chapters_from_Combinatorics_and_Graph_Theory/blob/main/Control%20Tests%20and%20Exams/03.%20%D0%98%D0%B7%D0%BF%D0%B8%D1%82%20%D0%BF%D1%80%D0%B5%D0%B7%20%D0%BB%D0%B5%D1%82%D0%BD%D0%B8%D1%8F%20%D1%81%D0%B5%D0%BC%D0%B5%D1%81%D1%82%D1%8A%D1%80%20%D0%BD%D0%B0%202017-2018%20%D1%83%D1%87.%20%D0%B3..pdf)
+04|2020-07-13|[Exam](https://github.com/andy489/Selected_Chapters_from_Combinatorics_and_Graph_Theory/blob/main/Control%20Tests%20and%20Exams/04.%20%D0%98%D0%B7%D0%BF%D0%B8%D1%82%D0%BD%D0%B0%20%D1%82%D0%B5%D0%BC%D0%B0%20%D0%BE%D1%82%2013%20%D1%8E%D0%BB%D0%B8%202020%20%D0%B3..pdf)
+05|2020-08-17|[Exam](https://github.com/andy489/Selected_Chapters_from_Combinatorics_and_Graph_Theory/blob/main/Control%20Tests%20and%20Exams/05.%20%D0%98%D0%B7%D0%BF%D0%B8%D1%82%D0%BD%D0%B0%20%D1%82%D0%B5%D0%BC%D0%B0%20%D0%BE%D1%82%2017%20%D0%B0%D0%B2%D0%B3%D1%83%D1%81%D1%82%202020%20%D0%B3..pdf)
