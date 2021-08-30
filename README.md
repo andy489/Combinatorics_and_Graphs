@@ -28,6 +28,7 @@ N|pdf
 07|[2021-03-27 Control Test – Solutions 1](https://github.com/andy489/Selected_Chapters_from_Combinatorics_and_Graph_Theory/blob/main/Control%20Tests%20and%20Exams/07.%20%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D1%80%D0%BE%D0%BB%D0%BD%D0%BE%20%D0%BE%D1%82%2027%20%D0%BC%D0%B0%D1%80%D1%82%202021%20%D0%B3.%20%E2%80%93%20%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D1%8F.pdf)
 08|[2021-03-27 Control Test – Solutions 2](https://github.com/andy489/Selected_Chapters_from_Combinatorics_and_Graph_Theory/blob/main/Control%20Tests%20and%20Exams/08.%20%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D1%80%D0%BE%D0%BB%D0%BD%D0%BE%20%D0%BE%D1%82%2027%20%D0%BC%D0%B0%D1%80%D1%82%202021%20%D0%B3.%20%E2%80%93%20%D0%BB%D0%B8%D1%87%D0%BD%D0%B8%20%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D1%8F.pdf)
 09|[2021-05-27 Exam](https://github.com/andy489/Selected_Chapters_from_Combinatorics_and_Graph_Theory/blob/main/Control%20Tests%20and%20Exams/09.%20%D0%98%D0%B7%D0%BF%D0%B8%D1%82%D0%BD%D0%B0%20%D1%82%D0%B5%D0%BC%D0%B0%2027%20%D0%BC%D0%B0%D0%B8%CC%86%202021%20%D0%B3.pdf)
+10|[2021-08-27 Final Exam](https://github.com/andy489/Selected_Chapters_from_Combinatorics_and_Graph_Theory/blob/main/Control%20Tests%20and%20Exams/10.%20%D0%9F%D0%BE%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D0%B5%D0%BB%D0%BD%D0%B0%20%D0%B8%D0%B7%D0%BF%D0%B8%D1%82%D0%BD%D0%B0%20%D1%82%D0%B5%D0%BC%D0%B0%20%D0%BF%D0%BE%20%D0%98%D0%9A%D0%93%D0%A2%2027%20%D0%B0%D0%B2%D0%B3%D1%83%D1%81%D1%82%202021.pdf)
 
 ## Reports
 
